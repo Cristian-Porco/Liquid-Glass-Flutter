@@ -12,7 +12,7 @@ Un progetto Flutter che imita la nuova navigation bar introdotta in iOS 26, cara
 
 ## 🌐 Screenshot
 
-![iOS 26 Navbar Clone Demo](preview.png) <!-- Sostituisci con un'immagine reale del progetto -->
+![iOS 26 Navbar Clone Demo](preview.gif) <!-- Sostituisci con un'immagine reale del progetto -->
 
 ## ⚙️ Requisiti
 
