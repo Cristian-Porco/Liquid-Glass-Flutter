@@ -48,8 +48,7 @@ Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per mag
 
 Per suggerimenti, segnalazioni o collaborazioni:
 
-- GitHub: [@tuo-username](https://github.com/tuo-username)
-- Email: tuo@email.com
+- GitHub: [@Cristian-Porco](https://github.com/Cristian-Porco)
 
 ---
 
