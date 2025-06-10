@@ -23,8 +23,7 @@ Un progetto Flutter che imita la nuova navigation bar introdotta in iOS 26, cara
 
 ```bash
 # Clona la repository
-git clone https://github.com/tuo-username/ios26-liquid-navbar-flutter.git
-cd ios26-liquid-navbar-flutter
+git clone https://github.com/Cristian-Porco/Liquid-Glass-Flutter.git
 
 # Installa le dipendenze
 flutter pub get
