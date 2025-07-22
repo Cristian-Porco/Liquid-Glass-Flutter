@@ -1,0 +1,67 @@
+# --- FLUTTER / DART ---
+
+*.dart text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.css text eol=lf
+
+# Icone, immagini, font, ecc. (binari)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+*.mp3 binary
+*.wav binary
+*.mp4 binary
+
+# Evita che file generati o nativi influenzino il linguaggio del repo
+
+# C++ e nativi (non considerati nel linguaggio principale del progetto)
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.cxx linguist-vendored
+*.cc linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+
+# Swift (se integrato per iOS)
+*.swift linguist-vendored
+
+# CMake e build scripts nativi
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+
+# Android native (es. Kotlin, Java nativo se non principale)
+*.kt linguist-vendored
+*.java linguist-vendored
+android/** linguist-vendored
+
+# iOS native
+ios/** linguist-vendored
+
+# Flutter build
+build/** linguist-generated
+.dart_tool/** linguist-generated
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock linguist-generated
+
+# IDE e workspace
+*.iml linguist-generated
+*.log linguist-generated
+*.tmp linguist-generated
+.vscode/** linguist-generated
+.idea/** linguist-generated
